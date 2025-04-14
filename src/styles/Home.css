@@ -1,0 +1,20 @@
+.home-container {
+    padding: 24px;
+    background-color: #f9f9f9;
+    color: #333;
+    min-height: 100vh;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .dark-mode {
+    background-color: #1f2937;
+    color: #fff;
+  }
+  
+  .car-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 24px;
+    margin-top: 24px;
+  }
+  

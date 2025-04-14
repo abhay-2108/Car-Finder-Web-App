@@ -1,0 +1,153 @@
+
+.dark-toggle-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  gap: 10px;
+}
+
+.dark-toggle-btn,
+.wishlist-btn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  font-weight: 500;
+  background: rgba(0, 123, 255, 0.7);
+  color: white;
+  transition: background-color 0.3s, transform 0.2s ease;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.dark-toggle-btn:hover,
+.wishlist-btn:hover {
+  background: rgba(0, 87, 179, 0.8);
+  transform: translateY(-2px);
+}
+
+body.dark-mode .dark-toggle-btn,
+body.dark-mode .wishlist-btn {
+  background: rgba(59, 130, 246, 0.9);
+}
+
+body.dark-mode .dark-toggle-btn:hover,
+body.dark-mode .wishlist-btn:hover {
+  background: rgba(37, 99, 235, 0.9);
+}
+
+
+
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f4;
+  color: #111;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body.dark-mode {
+  background-color: #121212;
+  color: #f5f5f5;
+}
+
+.home-container.dark-mode {
+  background-color: #121212;
+  color: #f5f5f5;
+}
+
+
+.car-card {
+  background: #fff;
+  color: #111;
+  padding: 16px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+body.dark-mode .car-card {
+  background: #1e1e1e;
+  color: #f5f5f5;
+}
+
+
+.car-title, .car-price, .car-details {
+  transition: color 0.3s ease;
+}
+
+body.dark-mode .car-title,
+body.dark-mode .car-price,
+body.dark-mode .car-details {
+  color: #eaeaea;
+}
+
+
+.filters, .search-bar {
+  background: #ffffff;
+  color: #111;
+  padding: 12px;
+  border-radius: 10px;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+body.dark-mode .filters,
+body.dark-mode .search-bar {
+  background: #1c1c1c;
+  color: #ffffff;
+}
+
+
+input, select {
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+body.dark-mode input,
+body.dark-mode select {
+  background: #ffffff;
+  color: #f5f5f5;
+  border: 1px solid #444;
+}
+
+
+.pagination {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.pagination button {
+  padding: 8px 12px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.pagination button:hover {
+  background-color: #0056b3;
+}
+
+body.dark-mode .pagination button {
+  background-color: #2563eb;
+}
+
+body.dark-mode .pagination button:hover {
+  background-color: #1d4ed8;
+}
+
+
+a {
+  color: #007bff;
+}
+
+body.dark-mode a {
+  color: #90caf9;
+}

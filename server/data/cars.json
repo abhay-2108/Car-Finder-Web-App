@@ -1,0 +1,203 @@
+
+[
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Alto K10",
+    "price": 4911,
+    "fuelType": "Petrol",
+    "seatingCapacity": 5,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Dzire",
+    "price": 7940,
+    "fuelType": "Petrol",
+    "seatingCapacity": 5,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Eeco",
+    "price": 6316,
+    "fuelType": "Petrol",
+    "seatingCapacity": 7,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "price": 12992,
+    "fuelType": "Petrol",
+    "seatingCapacity": 4,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Fronx",
+    "price": 8765,
+    "fuelType": "Petrol",
+    "seatingCapacity": 4,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Tata",
+    "model": "Nexon",
+    "price": 9288,
+    "fuelType": "Petrol/Diesel",
+    "seatingCapacity": 7,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Brezza",
+    "price": 10089,
+    "fuelType": "Petrol",
+    "seatingCapacity": 5,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Creta",
+    "price": 12899,
+    "fuelType": "Petrol/Diesel",
+    "seatingCapacity": 7,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Tata",
+    "model": "Punch",
+    "price": 6966,
+    "fuelType": "Petrol",
+    "seatingCapacity": 4,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Scorpio-N",
+    "price": 16242,
+    "fuelType": "Petrol/Diesel",
+    "seatingCapacity": 7,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Thar",
+    "price": 13351,
+    "fuelType": "Petrol/Diesel",
+    "seatingCapacity": 4,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Bolero",
+    "price": 11366,
+    "fuelType": "Diesel",
+    "seatingCapacity": 5,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "price": 13165,
+    "fuelType": "Petrol",
+    "seatingCapacity": 5,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Venue",
+    "price": 9218,
+    "fuelType": "Petrol/Diesel",
+    "seatingCapacity": 7,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Mahindra",
+    "model": "XUV 3XO",
+    "price": 9276,
+    "fuelType": "Petrol/Diesel",
+    "seatingCapacity": 4,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Kia",
+    "model": "Sonet",
+    "price": 9288,
+    "fuelType": "Petrol/Diesel",
+    "seatingCapacity": 5,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Kia",
+    "model": "Seltos",
+    "price": 12922,
+    "fuelType": "Petrol/Diesel",
+    "seatingCapacity": 4,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Baleno",
+    "price": 7779,
+    "fuelType": "Petrol",
+    "seatingCapacity": 4,
+    "imageUrl": "[invalid url, do not cite] baleno"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Swift",
+    "price": 7534,
+    "fuelType": "Petrol",
+    "seatingCapacity": 7,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Exter",
+    "price": 6966,
+    "fuelType": "Petrol",
+    "seatingCapacity": 7,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Tata",
+    "model": "Altroz",
+    "price": 7720,
+    "fuelType": "Petrol/Diesel",
+    "seatingCapacity": 5,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Kia",
+    "model": "Carens",
+    "price": 12307,
+    "fuelType": "Petrol/Diesel",
+    "seatingCapacity": 7,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Mahindra",
+    "model": "Bolero Pick Up",
+    "price": 11100,
+    "fuelType": "Diesel",
+    "seatingCapacity": 4,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Verna",
+    "price": 12852,
+    "fuelType": "Petrol/Diesel",
+    "seatingCapacity": 5,
+    "imageUrl": "K10.webp"
+  },
+  {
+    "brand": "Maruti Suzuki",
+    "model": "Ertiga",
+    "price": 10261,
+    "fuelType": "Petrol",
+    "seatingCapacity": 7,
+    "imageUrl": "K10.webp"
+  }
+]
